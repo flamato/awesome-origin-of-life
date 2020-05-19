@@ -3,13 +3,15 @@
 【大学课程】
 
 1. **【NASA】**-Origin of life: https://serc.carleton.edu/marsforearthlings/examples/originoflife_Mars.html
-2. **【伯克利：】**https://evolution.berkeley.edu/evo101/IIE2bStudyorigins.shtml
+2. **【伯克利：】**】https://evolution.berkeley.edu/evo101/IIE2bStudyorigins.shtml
 3. **【Arizona.edu】**: http://nitro.biosci.arizona.edu/courses/EEB105/lectures/Origins_of_Life/origins.html
 4. **【AST 309】**-ppt : https://www.as.utexas.edu/astronomy/education/sum11/endl/secure/AST_s309_ss11_15.pdf
 5. **【MIT】**：https://dspace.mit.edu/bitstream/handle/1721.1/46321/12-007Spring2003/NR/rdonlyres/Earth--Atmospheric--and-Planetary-Sciences/12-007Spring2003/1F79BCAA-CDF6-403B-9CB6-2A68C8BADA80/0/Lec04.pdf
 6. **【SFI】:** https://www.santafe.edu/engage/learn/courses/origins-life
-7. **【伊利诺伊大学香槟分校】：**https://www.coursera.org/learn/emergence-of-life　Coursera课程[Bruce W. Fouke, Ph.D, ]     【见卡片】{{[[Coursera课程-emergence of life]]}}	【视频】：https://www.coursera.org/lecture/emergence-of-life/welcome-to-the-emergence-of-life-cDmgB
-   * https://www.coursehero.com/sitemap/schools/779-University-of-Illinois-Urbana-Champaign/courses/5849915-GEOL111/ (伊利诺伊大学香槟分校 GEOL111-Prof. Cole.)
+7. **【伊利诺伊大学香槟分校】：**
+   1.   https://www.coursera.org/learn/emergence-of-life　  Coursera课程[Bruce W. Fouke, Ph.D, ]     【见卡片】{{[[Coursera课程-emergence of life]]}}	
+   2. 【视频】：https://www.coursera.org/lecture/emergence-of-life/welcome-to-the-emergence-of-life-cDmgB
+   3. https://www.coursehero.com/sitemap/schools/779-University-of-Illinois-Urbana-Champaign/courses/5849915-GEOL111/ (伊利诺伊大学香槟分校 GEOL111-Prof. Cole.)
 8. **【Cold Spring Harbor Laboratory】: http://evolution-textbook.org/content/free/notes/ch04_Notes.html** 
 9. 【**mook**】https://mooc.es/course/emergence-of-life/ 
 10. **【可汗学院】**：https://www.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/v/origins-of-life
@@ -18,7 +20,7 @@
 13. 【**LMU**-正在进行的课程4.20-7.20】Emergence of Life in the Universe – Zeit und Ort-Monday 14.15 - 16.45 online via Zoom：93753967275 https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_20/Emergence-of-Life-in-the-Universe/index.html
 14. **【Bruce Fouke】**https://www.igb.illinois.edu/article/emergence-life-mooc 2014 Bruce W. fouke (Carl  Woese)
 15. **【California Institute of Technology】**CALTECH GE 133 - The Emergence and Maintenance of Life-California Institute of Technology :https://gradebuddy.com/doc/867302/the-emergence-and-maintenance-of-life/
-16. **【IAP 2018】**: Origin of Life Lecture Series: https://eapsweb.mit.edu/news/2018/iap-origin-life-lecture-series**
+16. **【IAP 2018】**: Origin of Life Lecture Series: https://eapsweb.mit.edu/news/2018/iap-origin-life-lecture-series
 17. **【Washington.edu】:**[http://courses.washington.edu/biol354/The%20Origin%20of%20Life%20on%20Earth.pdf](http://courses.washington.edu/biol354/The Origin of Life on Earth.pdf) Orgel-1997 http://courses.washington.edu/biol354/
 18. **[Jack Szostak](https://www.ibiology.org/evolution/origin-of-life/)  2009N奖，人工酵母染色体，RNA复制，人工细胞**
 
@@ -70,7 +72,7 @@
 
 3. [Geoffrey Zubay-Origins of life on the earth and in the cosmos-2000](https://www.sciencedirect.com/book/9780127819105/origins-of-life-on-the-earth-and-in-the-cosmos)
 
-4. **大英百科全书：https://www.britannica.com/science/life/Multicellularity**
+4. **大英百科全书**：https://www.britannica.com/science/life/Multicellularity
 
 5. [Origin of Life——What Everyone Needs to Know. David Deamer. Oxford Press.](https://global.oup.com/academic/product/origin-of-life-9780190098995?cc=cn&lang=en&)
 
@@ -112,58 +114,50 @@
 
 2. https://scitechdaily.com/new-evidence-on-the-origins-of-life-on-earth/
 
-   
-
 ### 【News】
 
 1. https://www.lpi.usra.edu/science/kring/epo_web/impact_cratering/origin_of_life/index.html （NASA相关）
 2. [how did life arise on eath](https://www.livescience.com/1804-greatest-mysteries-life-arise-earth.html)
 3. https://sputniknews.com/science/202003151078573413-emergence-of-life-in-other-parts-of-the-universe-could-be-inevitable-new-study-suggests/
 
-1. 2020-CHEOPS系外行星：https://www.lindau-nobel.org/blog-characterising-exoplanets-to-understand-the-emergence-of-life-cheops/
-2. 2019-NASA-硫与地球第一个生命的出现：https://scitechdaily.com/sulfur-and-the-emergence-of-the-first-life-on-earth/；（参考：Igor Gayday，Alexander Teplukhin和Dmitri Babikov于2019年2月12日在《*分子物理学*》上发表的“使用尺寸减小的势能面对四硫的振动模式进行计算分析” 。
+4. 2020-CHEOPS系外行星：https://www.lindau-nobel.org/blog-characterising-exoplanets-to-understand-the-emergence-of-life-cheops/
+5. 2019-NASA-硫与地球第一个生命的出现：https://scitechdaily.com/sulfur-and-the-emergence-of-the-first-life-on-earth/；（参考：Igor Gayday，Alexander Teplukhin和Dmitri Babikov于2019年2月12日在《*分子物理学*》上发表的“使用尺寸减小的势能面对四硫的振动模式进行计算分析” 。
    DOI：10.1080 / 00268976.2019.1574038）
-3. 2020：一项新的研究表明，在宇宙其他地方出现生命是不可避免的 https://www.mtv.com.lb/en/news/international/1032174/emergence-of-life-in-other-parts-of-the-universe-could-be-inevitable--new-study-suggests
-4. https://www.the-scientist.com/news-opinion/on-the-origins-of-life-35775
-5. https://www.smithsonianmag.com/science-nature/the-origins-of-life-60437133/
-6. https://www.npr.org/templates/story/story.php?storyId=4761196
-7. https://www.ucl.ac.uk/news/2019/nov/deep-sea-vents-had-ideal-conditions-origin-life
-8. https://www.physicsoftheuniverse.com/topics_life_early.html
-9. https://www.biology.iupui.edu/biocourses/N100/ch8life.html
-
-
+6. 2020：一项新的研究表明，在宇宙其他地方出现生命是不可避免的 https://www.mtv.com.lb/en/news/international/1032174/emergence-of-life-in-other-parts-of-the-universe-could-be-inevitable--new-study-suggests
+7. https://www.the-scientist.com/news-opinion/on-the-origins-of-life-35775
+8. https://www.smithsonianmag.com/science-nature/the-origins-of-life-60437133/
+9. https://www.npr.org/templates/story/story.php?storyId=4761196
+10. https://www.ucl.ac.uk/news/2019/nov/deep-sea-vents-had-ideal-conditions-origin-life
+11. https://www.physicsoftheuniverse.com/topics_life_early.html
+12. https://www.biology.iupui.edu/biocourses/N100/ch8life.html
 
 ---------------
 
 ### 【假说】
 
-1. 
+1. SA 2014 [A New Physics Theory of Life-Natalie Wolchover](https://www.scientificamerican.com/article/a-new-physics-theory-of-life/)
 
-2. SA 2014 [A New Physics Theory of Life-Natalie Wolchover](https://www.scientificamerican.com/article/a-new-physics-theory-of-life/)
+2. 信息论与生命起源 2014-https://medium.com/the-physics-arxiv-blog/information-theory-and-the-origin-of-life-4cf6b93d156c 原文： https://arxiv.org/pdf/1409.0590.pdf
 
-3. 信息论与生命起源 2014-https://medium.com/the-physics-arxiv-blog/information-theory-and-the-origin-of-life-4cf6b93d156c 原文： https://arxiv.org/pdf/1409.0590.pdf
+3. The Emergence of Complex Life-2011：https://globalchange.umich.edu/globalchange1/current/lectures/complex_life/complex_life.html
 
-4. The Emergence of Complex Life-2011：https://globalchange.umich.edu/globalchange1/current/lectures/complex_life/complex_life.html
+4. Quimiosynthetic Theory: The Emergence of Life on Earth： https://www.lifepersona.com/quimiosynthetic-theory-the-emergence-of-life-on-earth
 
-5. Quimiosynthetic Theory: The Emergence of Life on Earth： https://www.lifepersona.com/quimiosynthetic-theory-the-emergence-of-life-on-earth
+5. https://www.smashinglists.com/top-10-theories-on-beginning-of-life-on-earth/  【top10 理论】
 
-6. https://www.smashinglists.com/top-10-theories-on-beginning-of-life-on-earth/  【top10 理论】
+6. [Early Life Theories - Panspermia Theory](https://www.thoughtco.com/early-life-theory-of-panspermia-theory-1224530)
 
-7. [Early Life Theories - Panspermia Theory](https://www.thoughtco.com/early-life-theory-of-panspermia-theory-1224530)
+7. **[7 Theories on the Origin of Life](https://www.livescience.com/author/charles-q-choi) March 24, 2016](https://www.livescience.com/13363-7-theories-origin-life.html) /By [Charles Q. Choi - Live Science Contributor] 【理论汇总】**
 
-8. **[7 Theories on the Origin of Life](https://www.livescience.com/author/charles-q-choi) March 24, 2016](https://www.livescience.com/13363-7-theories-origin-life.html) /By [Charles Q. Choi - Live Science Contributor] 【理论汇总】**
+8. https://www.sciencedaily.com/releases/2014/06/140625132629.htm 米勒试验忘记的
 
-9. https://www.sciencedaily.com/releases/2014/06/140625132629.htm 米勒试验忘记的
+9. [Early Life Theories - Panspermia Theory-2018](https://www.thoughtco.com/early-life-theory-of-panspermia-theory-1224530)
 
-10. [Early Life Theories - Panspermia Theory-2018](https://www.thoughtco.com/early-life-theory-of-panspermia-theory-1224530)
+10. 3种假说（奥巴林-米勒-RNA世界） ：https://www.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/a/hypotheses-about-the-origins-of-life
 
-11. 3种假说（奥巴林-米勒-RNA世界） ：https://www.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/a/hypotheses-about-the-origins-of-life
+11. [Origin of Life Theories-Heather Scoville-2019](https://www.thoughtco.com/origin-of-life-theories-1224553)
 
-12. [Origin of Life Theories-Heather Scoville-2019](https://www.thoughtco.com/origin-of-life-theories-1224553)
-
-13. 2009新假说-Anuradha K. Herath-https://phys.org/news/2009-09-scientists-hypothesis-life.html
-
-    
+12. 2009新假说-Anuradha K. Herath-https://phys.org/news/2009-09-scientists-hypothesis-life.html
 
 -------------------------------
 
@@ -188,8 +182,6 @@
 2. **2015-Life特刊 https://www.mdpi.com/journal/life/special_issues/emergence_of_life** 【待批量下载】
 3. http://www.yourarticlelibrary.com/biology/origin-of-life-5-ancient-theories-of-origin-of-life/13248
 
-
-
 ---------------------
 
 ### 【学校-机构】
@@ -213,13 +205,11 @@
 3. SA-2017-Roberet Shapiro-a simpler origin for life: https://www.scientificamerican.com/article/a-simpler-origin-for-life/
 4. https://www.scientificamerican.com/article/were-meteorites-the-origi/
 
-1. https://www.simonsfoundation.org/life-sciences/origins-of-life/)
+5. https://www.simonsfoundation.org/life-sciences/origins-of-life/)
 
 **【学校】**
 
 1. lifeInTheUniverse-UCSD-http://earthguide.ucsd.edu/virtualmuseum/litu/02_3.shtml
-
-   
 
 -----------------------
 
@@ -299,8 +289,6 @@ New essays about recent discoveries in the emergence of life will be posted here
 11. Encyclopedia2： https://encyclopedia2.thefreedictionary.com/Origin+of+Life； https://medical-dictionary.thefreedictionary.com/origin+of+life；https://encyclopedia2.thefreedictionary.com/Origin+of+life+(science) ；
 12. https://sites.google.com/site/originsoflifecarlmont/home 
 
-### 
-
 -----------------------
 
 ### 【问答】
@@ -317,18 +305,15 @@ New essays about recent discoveries in the emergence of life will be posted here
 10. 【quora-How was the emergence of life possible if energy tends to entropy?】https://www.quora.com/How-was-the-emergence-of-life-possible-if-energy-tends-to-entropy?share=1
 11. 【Quora-How is the emergence of life related to entropy? 】https://www.quora.com/How-is-the-emergence-of-life-related-to-entropy?share=1
 
-
-
 --------------
 
 ### 【博客和主题网站】
 
-
-
 ### 【主题博客】
 
-- **Newscientist 【时间轴】：https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/#** 
-- https://www.the-scientist.com/tag/origins-of-life
+1. **Newscientist 【时间轴】**：https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/# 
+
+2. https://www.the-scientist.com/tag/origins-of-life
 
 **【起源主题】**
 
@@ -362,8 +347,6 @@ New essays about recent discoveries in the emergence of life will be posted here
 3. https://www.123helpme.com/topics/origin-of-life
 4. https://www.unexplained-mysteries.com/news/287495/crystals-suggest-earlier-emergence-of-life
 
-
-
 ---------------
 
 #### 【机构博客-网站】
@@ -371,8 +354,6 @@ New essays about recent discoveries in the emergence of life will be posted here
 1. https://www.scientificamerican.com/article/a-new-physics-theory-of-life/)
 
 2. https://www.science.org.au/curious/space-time/origins-life-earth [Australian Academy of Science]
-
-   
 
 --------------
 
@@ -382,7 +363,7 @@ New essays about recent discoveries in the emergence of life will be posted here
 2. Lee Wimberly-blog-On the emergence of life: https://wimberlymd.com/blog/on-the-emergence-of-life 【看看】
 3. http://www.talkorigins.org/ 【熊猫的拇指作者？】
 4. Chris Gordon-Smith-“Sim Soup”：http://www.simsoup.info/index.html
-5. Lee Wimberly-blog-On the emergence of life: https://wimberlymd.com/blog/on-the-emergence-of-life 【看看】
+5. Lee Wimberly-blog-On the emergence of life: https://wimberlymd.com/blog/on-the-emergence-of-life【看看】
 
 **【人物】**
 
@@ -394,11 +375,9 @@ New essays about recent discoveries in the emergence of life will be posted here
    The Same Idea?——Reflections on the Concrete and the Abstract in Theoretical Biology：http://www.nbi.dk/~emmeche/cePubl/2000a.Closure.html
 6. https://www.daviddarling.info/encyclopedia/L/lifeorigin.html
 
-
-
 ----------------
 
-### *【智能设计向博客】
+### 【智能设计向博客】
 
 1. https://trueorigin.org/；https://trueorigin.org/hydrothermal.php
 2. **https://www.panspermia.org/rnaworld.htm**【RNAworld，非常全】【宇宙起源 https://www.panspermia.org/】（民科向？”生命来自生命“）
@@ -414,4 +393,3 @@ New essays about recent discoveries in the emergence of life will be posted here
 12. https://evolutionnews.org/　进化新闻与今日科学网站　【注：这是一个支持智能设计论的网站，注意撷取有用知识，摒除宗教偏向性。——后来发现倾向性太强，决定不再关注。】~~
 13. https://www.windows2universe.org/?page=/earth/Life/origins.html [民科？]
 14. https://www.icr.org/creation-origin-of-life
-
